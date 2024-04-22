@@ -4,11 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d2dd54b-4ac6-4af8-939e-17d7da10fa28" name="Changes" comment="" />
+    <list default="true" id="6d2dd54b-4ac6-4af8-939e-17d7da10fa28" name="Changes" comment="Adding questions info as well as question model and started quiz brain">
+      <change beforePath="$PROJECT_DIR$/.idea/QuizProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/QuizProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/question_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/question_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/quiz_brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/quiz_brain.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,6 +53,9 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.main.executor": "Run",
+    "Python.question_model.executor": "Run",
+    "Python.quiz_brain.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -63,6 +79,15 @@
       <option name="presentableId" value="Default" />
       <updated>1713802790368</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adding questions info as well as question model and started quiz brain">
+      <option name="closed" value="true" />
+      <created>1713803844028</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713803844028</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,5 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Adding questions info as well as question model and started quiz brain" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding questions info as well as question model and started quiz brain" />
   </component>
 </project>
